@@ -98,7 +98,7 @@ const Body = () => {
         </section>
 
          <div className='pt-10 mb-10 flex items-center justify-center'>
-               <figcaption className='border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
+               <figcaption className='border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-medium text-5xl pb-10  text-custom6 sm:w-full lg:w-fit border-white '>
               <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 font-medium text-5xl pb-10  text-custom6' bg-clip-text text-transparent'>REQUEST BETA</a>
             </figcaption>
         </div>   
