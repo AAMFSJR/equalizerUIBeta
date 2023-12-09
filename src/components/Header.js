@@ -12,12 +12,11 @@ const Header = () => {
         </section>
 
     <nav className='flex flex-end  w-full pb-16'>
-      <section className='flex flex-end'>
+      <section className='flex justify-end'>
            <figcaption  className=' font-dmsans border border-custom1 rounded-lg px-1 lg:px-8 py-3 lg:py-3 text-center text-sm font-semibold sm:w-full lg:w-fit cursor-default select-none '>
               <button href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o'>REQUEST BETA</button>
             </figcaption>
       </nav>
-      
         </section>
             <figure className='w-7/12 pl-10 pt-32'>
                 <img src={logo} alt='Logo' className=' block sm:w-28 w-20  md:w-28 lg:w-28 select-none'/>
