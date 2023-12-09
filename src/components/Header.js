@@ -11,8 +11,9 @@ const Header = () => {
             </figcaption>
         </section>
       <section className='flex justify-between w-1/3 items-center'>
-            <figcaption className='border rounded-2xl px-8 py-5 text-center text-xl font-semibold sm:w-full lg:w-fit border-white  bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent border-x-4 border-y-4 '>
-              <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>REQUEST BETA</a>
+           
+           <figcaption >
+              <button href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparentfont-dmsans border border-custom1 rounded-lg px-1 lg:px-8 py-3 lg:py-3 text-center text-sm font-semibold sm:w-full lg:w-fit cursor-default select-none'>REQUEST BETA</button>
             </figcaption>
         </section>
             <figure className='w-7/12 pl-10 pt-32'>
