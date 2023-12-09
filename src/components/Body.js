@@ -97,11 +97,11 @@ const Body = () => {
         </section>
 
         <div className='pt-10 mb-10 flex items-center justify-center'>
-            { <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' > }
-               <button  className=' border rounded-2xl px-8 py-5 text-center text-xl font-semibold sm:w-full lg:w-fit border-white  bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent border-x-4 border-y-4'>
+            {/* <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o'> */}
+               <button  className=' border rounded-2xl px-8 py-5 text-center text-xl font-semibold sm:w-full lg:w-fit border-white bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent border-x-4 border-y-4'>
                REQUEST BETA
                 </button>
-            { </a> }
+            { /*</a>*/ }
         </div>               
 
 
