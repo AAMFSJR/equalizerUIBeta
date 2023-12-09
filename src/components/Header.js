@@ -18,6 +18,7 @@ const Header = () => {
             </figcaption>
       </nav>
         </section>
+        </section>
             <figure className='w-7/12 pl-10 pt-32'>
                 <img src={logo} alt='Logo' className=' block sm:w-28 w-20  md:w-28 lg:w-28 select-none'/>
             </figure>
