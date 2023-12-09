@@ -11,8 +11,8 @@ const Header = () => {
             </figcaption>
         </section>
 
-    <nav className='flex justify-end  w-full pb-16'>
-      <section className='flex justify-end'>
+    <nav className='flex-end  w-full pb-16'>
+      <section className='flex-end'>
            <figcaption  className=' font-dmsans border border-custom1 rounded-lg px-1 lg:px-8 py-3 lg:py-3 text-center text-sm font-semibold sm:w-full lg:w-fit cursor-default select-none '>
               <button href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o'>REQUEST BETA</button>
             </figcaption>
