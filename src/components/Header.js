@@ -13,7 +13,7 @@ const Header = () => {
       <section className='flex justify-between w-1/3 items-center'>
            
            <figcaption >
-              <button href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparentfont-dmsans border border-custom1 rounded-lg px-1 lg:px-8 py-3 lg:py-3 text-center text-sm font-semibold sm:w-full lg:w-fit cursor-default select-none'>REQUEST BETA</button>
+              <button href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className=' text-custom1 border rounded-lg px-8 py-4 text-center text-sm font-semibold sm:w-full lg:w-fit cursor-default select-none border-white bg-gradient-to-r from-custom4  to-custom3 '>REQUEST BETA</button>
             </figcaption>
         </section>
             <figure className='w-7/12 pl-10 pt-32'>
