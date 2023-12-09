@@ -6,12 +6,13 @@ const Header = () => {
   return (
    <nav className='flex justify-between  w-full pb-16'>
         <section className='flex justify-between w-1/3 items-center'>
-            <figcaption className='border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
+            <figcaption className=' border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
               <a href='#documentation' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>Documentation (Soon)</a>
             </figcaption>
          </section>
 
-      <figcaption className='justify-end border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
+      <section className='block'>
+      <figcaption className='flex justify-end block sm:w-16 w-20  md:w-28 lg:w-28 select-none border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
               <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>REQUEST BETA</a>
       </figcaption>
 
