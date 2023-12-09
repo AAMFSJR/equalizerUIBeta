@@ -10,8 +10,8 @@ const Header = () => {
               <a href='#documentation' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>Documentation (Soon)</a>
             </figcaption>
         </section>
-      <section className='flex justify-between w-1/3 items-center'>
-           
+      
+      <section className='flex flex-end'>
            <figcaption  className=' font-dmsans border border-custom1 rounded-lg px-1 lg:px-8 py-3 lg:py-3 text-center text-sm font-semibold sm:w-full lg:w-fit cursor-default select-none '>
               <button href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o'>REQUEST BETA</button>
             </figcaption>
