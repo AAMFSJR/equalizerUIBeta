@@ -92,11 +92,10 @@ const Body = () => {
                 <Card2
                     title={"Run your portfolio on autopilot"}
                     description={"Service your investments automatically, while you track performance in your dashboard."}
-                />
-
-                        
+                />         
             </section>
-        </section
+                        
+        </section>
 
         
     </section>
