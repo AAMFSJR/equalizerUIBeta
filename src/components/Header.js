@@ -4,11 +4,7 @@ const Header = () => {
     const logo = require('./../assets/images/White logo - no background.png')
     
   return (
-    <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
-      <button className='border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
-              <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>REQUEST BETA</a>
-      </button>
-      </div>
+
 
       <>
       <nav className='flex justify-between  w-full pb-16'>
@@ -24,6 +20,13 @@ const Header = () => {
             </figure>
      </nav>
      </>  
+
+        <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+      <button className='border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
+              <a href='https://blocksurvey.io/equalizer-early-access-7t5z3OqVRC2YEFcUXu8HeA?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>REQUEST BETA</a>
+      </button>
+      </div>
+
   )
 }
 
