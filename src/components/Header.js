@@ -10,7 +10,7 @@ const Header = () => {
       <nav className='flex justify-between  w-full pb-16'>
         <section className='flex justify-between w-1/3 items-center'>
             <figcaption className=' border rounded-lg lg:px-8 px-1 lg:py-3 text-center text-base lg:text-xl font-semibold sm:w-full lg:w-fit border-white '>
-              <a href='#documentation' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>Documentation (Soon)</a>
+              <a href='https://blocksurvey.io/maji-early-access-dqn91xjKQi6ymmOeMXUrKQ?v=o' className='bg-gradient-to-r from-custom6 to bg-custom5 bg-clip-text text-transparent'>REQUEST BETA</a>
             </figcaption>
 
       <figure className='w-7/12 pl-10 pt-32'>
